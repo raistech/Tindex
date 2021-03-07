@@ -4,7 +4,7 @@
 [![Open Source Love](https://img.shields.io/github/issues/Rayanfer32/TgindexPro?style=for-the-badge)](.) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-orange.svg?style=for-the-badge)](LICENSE) [![GitHub forks](https://img.shields.io/github/forks/Rayanfer32/TgindexPro?style=for-the-badge)]() [![GitHub Stars](https://img.shields.io/github/stars/Rayanfer32/TgindexPro?style=for-the-badge)]() [![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:http://github.com/Rayanfer32/TgindexPro)
 
 ## Deploy Now!
-[<img height=100 src="https://repl.it/badge/github/Rayanfer32/TgindexPro">](https://repl.it/github/Rayanfer32/TgindexPro)
+[<img height=100 src="https://repl.it/badge/github/NEOIR/Tindex">](https://repl.it/github/NEOIR/Tindex)
 
 ## Highlights
 
@@ -25,7 +25,7 @@
 
 ## Deploy Guide
 #### Easy Way:
-[![Run on repl.it](https://repl.it/badge/github/Rayanfer32/TgindexPro)](https://repl.it/github/Rayanfer32/TgindexPro)
+[![Run on repl.it](https://repl.it/badge/github/NEOIR/Tindex)](https://repl.it/github/NEOIR/Tindex)
 
 
 #### Preventing repl from going offline:
